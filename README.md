@@ -7,7 +7,7 @@
   </p> 
 </p>
 
-- 🎓 &nbsp;I'm currently studying Computer Science Engineering at IIIT, Nagpur.\
+- 🎓 &nbsp;I'm currently studying Computer Science Engineering at IIIT, Nagpur.
 - 🔭 I’m currently working on enhancing my skills in alogrithms and data structure on LeetCode.
 - 🌱 I’m currently learning NodeJs.
 - 👯 I’m looking to collaborate on projects in Deep Learning.
