@@ -1,7 +1,7 @@
 <p> 
   <h1 align="center">Hi there, I am Aman. 👋</h1> 
   <p align="center">
-    <img src="https://badges.pufler.dev/visits/Aman-1701/1701"/>
+    <img src="https://badges.pufler.dev/visits/Aman-1701/Aman-1701"/>
     <img src="https://badges.pufler.dev/repos/Aman-1701"/>
     <img src="https://badges.pufler.dev/commits/monthly/Aman-1701" />
   </p> 
@@ -34,7 +34,7 @@
 
 <p align = "center">
   <img width=400 src = "https://github-readme-stats.vercel.app/api?username=Aman-1701&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&">
-  <img width=335 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-17010&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">
+  <img width=335 src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-1701&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact">
 </p>
 
 <p align = "center">
